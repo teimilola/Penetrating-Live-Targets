@@ -11,4 +11,4 @@ GIF Here:
 <img src='https://github.com/teimilola/Penetrating-Live-Targets/blob/master/week8_codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 For CSRF:
-<img src='https://github.com/teimilola/Penetrating-Live-Targets/blob/master/week8_codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/teimilola/Penetrating-Live-Targets/blob/master/week8_codepath3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
