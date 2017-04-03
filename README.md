@@ -6,3 +6,6 @@
 4. Cross-site Scripting: Green.
 5. 
 6. Session Hijacking/Fixation: Blue. 
+
+GIF Here: 
+<img src='https://github.com/teimilola/Penetrating-Live-Targets/blob/master/week8_codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
