@@ -12,3 +12,6 @@ GIF Here:
 
 For CSRF:
 <img src='https://github.com/teimilola/Penetrating-Live-Targets/blob/master/week8_codepath3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Bonus Objective 2a:
+<img src='https://github.com/teimilola/Penetrating-Live-Targets/blob/master/week8_codepath4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
